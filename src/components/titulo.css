@@ -1,0 +1,14 @@
+.card {
+    background-color: black;
+    color: azure;
+    margin: 50px;
+    border-radius: 5%;
+}
+
+.color-red{
+    color: red;
+}
+
+.color-purple{
+    color: purple;
+}
